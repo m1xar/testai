@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "testai", "testai\testai.pyproj", "{DD8034CA-DDA2-4410-89B2-0D8D5A6411EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD8034CA-DDA2-4410-89B2-0D8D5A6411EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8034CA-DDA2-4410-89B2-0D8D5A6411EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAEE2FF3-09FE-4729-A488-594AC2226A13}
+	EndGlobalSection
+EndGlobal
